@@ -125,9 +125,9 @@ This Zomato dataset analysis offers deep insights into:
 ## 👤 Author
 
 **Abinesh M**  
-📧 abinesh@email.com  
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-💻 [GitHub](https://github.com/yourusername)
+📧 m.abinesh555@email.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/abinesh555/)  
+💻 [GitHub](https://github.com/technicalabinesh)
 
 ---
 
